@@ -1,5 +1,7 @@
 # AthletePal
 
+![Dashboard](images/Dashboard.png)
+
 > **A full-stack fitness tracking platform developed as part of a University of Leeds Software Engineering team project.**
 
 AthletePal is a modern web application designed to help users manage their fitness journey by tracking workouts, cardio sessions, training groups and overall performance through an intuitive and responsive interface.
@@ -26,6 +28,25 @@ The application enables users to:
 - 🔐 Securely authenticate user accounts
 
 ---
+
+## Documentation
+
+- 📄 [My Contribution](docs/MyContribution.md)
+- ⚙️ [Development Process](docs/Development.md)
+
+---
+
+## Engineering Highlights
+
+- Full-stack web application developed as part of a collaborative software engineering project
+- Modern React frontend with Kotlin/Ktor backend
+- SQLite database for persistent data storage
+- Component-based frontend architecture
+- Agile development methodology with sprint planning and retrospectives
+- Git feature branching and pull request workflow
+- Responsive user interface built with Tailwind CSS
+- Interactive route mapping and fitness tracking functionality
+
 
 # My Contribution
 
@@ -109,37 +130,94 @@ During development I gained experience with:
 
 ---
 
+## Repository Structure
+
+```text
+AthletePal-Project-Showcase/
+├── README.md                  # Project overview
+├── images/                    # Screenshots and project poster
+│   ├── Dashboard.png
+│   ├── WorkoutLog.png
+│   ├── ActivityHistory.png
+│   ├── LoginPage.png
+│   ├── Stats&Visualisation.png
+│   ├── TrainingGroups1.png
+│   ├── TrainingGroups2.png
+│   └── Poster.png
+├── docs/
+│   ├── MyContribution.md       # My role and responsibilities
+│   └── Development.md          # Development process and Agile workflow
+```
+
+---
+
 # Project Poster
 
 The project poster summarises the core functionality, architecture and objectives of AthletePal.
 
-> *(Insert the project poster here.)*
+![AthletePal Poster](images/Poster.png)
 
 ---
 
 # Application Preview
 
-> *(Screenshots will be added shortly.)*
+## Login
 
-Planned screenshots:
+![Login](images/LoginPage.png)
 
-- Dashboard
-- Workout Log
-- Cardio Tracking
-- Activity History
-- Training Groups
-- Statistics
-- User Profile
+---
+
+## Dashboard
+
+![Dashboard](images/Dashboard.png)
+
+---
+
+## Workout Log
+
+![Workout Log](images/WorkoutLog.png)
+
+---
+
+## Activity History
+
+![Activity History](images/ActivityHistory.png)
+
+---
+
+## Training Groups
+
+![Training Groups](images/TrainingGroups1.png)
+
+![Training Groups](images/TrainingGroups2.png)
+
+---
+
+## Statistics
+
+![Statistics](images/Stats&Visualisation.png)
 
 ---
 
 # Reflection
 
-AthletePal was my first opportunity to contribute to a large collaborative software engineering project.
+AthletePal was a great opportunity to contribute to a large collaborative software engineering project.
 
 Working alongside other developers strengthened my understanding of how modern software projects are planned, built and maintained. Beyond improving my technical React skills, the project developed my ability to communicate effectively within a team, integrate features across different parts of a system and deliver work against fixed project deadlines.
 
 It also reinforced the importance of writing maintainable code, collaborating through Git workflows and continuously refining features based on feedback throughout the development lifecycle.
+
+---
+
+## What I'd Improve In The Future
+
+If development of AthletePal were to continue, I would focus on:
+
+- Mobile responsiveness improvements
+- Real-time notifications
+- Wearable device integration
+- Improved analytics and visualisations
+- Cloud deployment and CI/CD
 
 ---
 
@@ -148,3 +226,4 @@ It also reinforced the importance of writing maintainable code, collaborating th
 The original AthletePal application was developed as a team project at the University of Leeds.
 
 This repository has been created as a portfolio showcase to demonstrate the project, the technologies used and my personal contributions, and is **not intended to represent sole ownership of the application**.
+
